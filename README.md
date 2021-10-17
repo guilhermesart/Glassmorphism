@@ -1,7 +1,7 @@
 # Glassmorphism
 
 
-Pagina Criada para testar conhecimentos e aprender o uso do Glassmorphism
+Pagina Recriada para testar conhecimentos e aprender o uso do Glassmorphism
 
 ## Preview
  
